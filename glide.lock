@@ -1,6 +1,0 @@
-hash: e5561a662452685c3de161d7ecd0981f9a47c2627dde6fadfd07d0975803d033
-updated: 2016-03-11T16:39:56.641259533+01:00
-imports:
-- name: github.com/docker/go-units
-  version: 5d2041e26a699eaca682e2ea41c8f891e1060444
-devImports: []
